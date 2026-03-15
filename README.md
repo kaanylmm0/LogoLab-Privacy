@@ -42,7 +42,15 @@ Our app is not directed at children under 13. We do not knowingly collect data f
 
 You may request access, correction, or deletion of your personal data by contacting us.
 
-## 9. Contact
+## 9.Account Deletion
+
+To request account deletion, please send an email to:
+studiolabss0@gmail.com
+
+Subject: Account Deletion Request
+
+Include your registered email address. Your account and all associated data will be permanently deleted within 30 days.
+## 10. Contact
 
 For privacy-related questions:
 studiolabss0@gmail.com
